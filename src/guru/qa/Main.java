@@ -6,6 +6,6 @@ public class Main {
         //hi
         System.out.println("Hello, QA.guru!");
         System.out.println("Another method");
-        System.out.println("slow branch");
+
     }
 }
